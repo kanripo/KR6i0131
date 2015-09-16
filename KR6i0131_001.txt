@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:37.735143
+#+DATE: 2015-08-30 20:10:39.696422
 #+TITLE: 佛說沙曷比丘功德經
 #+PROPERTY: CBETA_ID T14n0501
 #+PROPERTY: ID KR6i0131
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 501
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0131_T_000-0770a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0131_T_001-0770a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.501¶
-
- 佛說沙曷比丘功德經¶
+No. 501¶
+佛說沙曷比丘功德經¶
 ¶
 西晉沙門法炬譯¶
 
@@ -95,11 +94,10 @@ No.501¶
 皆以華香，出城迎佛，五體投地，稽首為禮。¶
 佛及比丘到宮即有自然師子座，布以綩綖，¶
 七寶華蓋，五色交絡，王施設供養，手自斟¶
-酌。飯畢，行盥水，祝願。佛為王及人民說龍¶
+酌。飯畢，行⬤水，祝願。佛為王及人民說龍¶
 本末，王與人民心解，即受五戒，行十善，或¶
 得須陀洹者、斯陀含、阿那含、阿羅漢者，不¶
 可稱數。
 
-佛說經竟，四輩弟子、天龍鬼神，歡¶
-喜奉行。¶
+佛說經竟，四輩弟子、天龍鬼神，歡喜奉行。¶
 佛說沙曷比丘功德經
